@@ -4,3 +4,7 @@ def smile():
 
 def frown():
     return ":("
+
+
+def snake():
+    return "~"
